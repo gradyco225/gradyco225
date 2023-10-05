@@ -1,4 +1,6 @@
-### Hi there 👋
+Hello. I am Connor Grady. I am a new software developer.
+
+I have been working as a Controls Engineer and Machine Vision Engineer for a few different companies over the past 5 years. Mainly working with Automotive manufacturers. I am taking an online bootcamp to learn the skills to work as a software developer.
 
 <!--
 **gradyco225/gradyco225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
