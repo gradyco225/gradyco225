@@ -1,11 +1,11 @@
 # About Me & What I've Worked On
 Hello. I am Connor Grady. I am a software developer and a gamer with over 7 years of vision system integration and controls engineering experience in the automotive industry. My favorite thing in this world is cool technology. Ever since I was a kid I was playing with and dismantling every toy/game/gadget I could get my little hands on. I wanted to figure out how they worked (and discovered what made them not). So far my career in technology has brought me to many places and I've seen a bunch of different ways to make things work.
 
-As a machine vision engineer I used industrial cameras to inspect the quality of automotive components for countless factories at the Big 3 US manufacturers. Using Cognex and Matrox machine vision cameras, I developed applications inspecting wheel & tire, engine components, and final assembly. Our systems were inspecting thousands of vehicles and automotive components daily.
+As a machine vision engineer I used industrial cameras to inspect the quality of automotive components for numerous factories at the Big 3 US manufacturers. Using Cognex and Matrox machine vision cameras, I developed applications inspecting wheel & tire, engine components, and final assembly. Our systems were inspecting thousands of vehicles and automotive components daily.
 
 Then as a Controls Engineer I worked using Allen Bradley PLCs and Fanuc and ABB robotics to improve, maintain, and support Tier 1 automotive suppliers. I was the one called upon when things went wrong. I often needed to think quick on my feet and work intelligently in order to keep production running. Working as a controls engineer has taught me so much about technology, being a team player, fighting through adversity, and critical thinking skills.
 
-In the fall of 2023 I enrolled in a Java Full Stack Developer Bootcamp hosted by Tech Elevator providing 800+ hours of development education and application. While there I learned about about a ton including Spring Boot, Java, PostgreSQL, HTML, CSS, JavaScript, Vue.js, Responsive Design, IntelliJ, Git, Unit Testing (JUnit), E/R diagrams, and Integration Testing.
+In the fall of 2023 I enrolled in a Java Full Stack Developer Bootcamp hosted by Tech Elevator providing 800+ hours of development education and application. While there I learned about about a ton including Java, PostgreSQL, HTML, CSS, JavaScript, Vue.js, Spring Boot, Responsive Design, IntelliJ, Git, Unit Testing (JUnit), E/R diagrams, and Integration Testing.
 
 ## Table of contents
 * [Tech Elevator](https://github.com/gradyco225#techelevator)
@@ -24,9 +24,6 @@ In the fall of 2023 I enrolled in a Java Full Stack Developer Bootcamp hosted by
 
 
 ## TechElevator
-<img alt="Static Badge" src="https://img.shields.io/badge/STATUS-%20COMPLETE-%20green">
-Tech Elevator is a 14-week full-stack coding bootcamp learning how to create dynamic web-based software systems using Java providing 800+ hours of development education and application. While there I learned about about a ton including Spring Boot, Java, PostgreSQL, HTML, CSS, JavaScript, Vue.js, Responsive Design, IntelliJ, Git, Unit Testing (JUnit), E/R diagrams, and Integration Testing.
-
 ### Vending Machine Application
 <img alt="Static Badge" src="https://img.shields.io/badge/STATUS-%20COMPLETE-%20green">
 Developed command line vending machine application using Java. The program manages an inventory, dispenses change in coins, and keeps a sales log while practicing File I/O and OOP principles.
