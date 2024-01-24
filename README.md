@@ -8,7 +8,7 @@ Then as a Controls Engineer I worked using Allen Bradley PLCs and Fanuc and ABB 
 In the fall of 2023 I enrolled in a Java Full Stack Developer Bootcamp hosted by Tech Elevator providing 800+ hours of development education and application. While there I learned about about a ton including Java, PostgreSQL, HTML, CSS, JavaScript, Vue.js, Spring Boot, Responsive Design, IntelliJ, Git, Unit Testing (JUnit), E/R diagrams, and Integration Testing.
 
 ## Table of contents
-* [Tech Elevator](https://github.com/gradyco225#techelevator)
+* [Tech Elevator](https://github.com/gradyco225#tech-elevator)
 
    * [Vending Machine Application](https://github.com/gradyco225#vending-machine-application)
 
@@ -23,14 +23,18 @@ In the fall of 2023 I enrolled in a Java Full Stack Developer Bootcamp hosted by
    * [Tournament Tracker Application](https://github.com/gradyco225#tournament-tracker-application)
 
 
-## TechElevator
+## Tech Elevator
+During the Tech Elevator program, we studied how to create dynamic web-based software systems using Java, PostgreSQL, HTML, CSS, JavaScript and the Vue.js framework. The program was divided into 3 separate units, the first one covering Java, the second covering PostgreSQL and API integration with Java, and the third being making a webpage and recieving information APIs. At the end of each unit, we would create a "capstone" project to practice everything we learned so far. The projects start simple and progress in complexity by the end. Also do note that only the final capstone project is publicly available on my github. The other two can be made availble upon request, but due to this being cirriculm material, it cannot be publicly shared. The final capstone project is all original work so it is available to view.
+
 ### Vending Machine Application
 <img alt="Static Badge" src="https://img.shields.io/badge/STATUS-%20COMPLETE-%20green">
-Developed command line vending machine application using Java. The program manages an inventory, dispenses change in coins, and keeps a sales log while practicing File I/O and OOP principles.
+During the first third of the program, I learned how to create a command line application using Java. This was a pair partner project that we developed to similate the computer of a vending machine. The vending machine keeps an inventory, inputs money, outputs change, manages transactions, and keeps a sales log.
+The biggest thing I learned from this project is that your code needs to be adaptable. Looking back I would have separated things out into more classes so one piece of code could have been used for more functions.
 
 ### TEnmo - Venmo style app
 <img alt="Static Badge" src="https://img.shields.io/badge/STATUS-%20COMPLETE-%20green">
-Developed money transfer application similar to Venmo using Java, PostgreSQL, and REST API design. The program resisters new users, requires login authentication, and transfers money between accounts.
+For the second project of the program, I learned about SQL databases and how to integrate it's data using APIs with a Java command line application. This is an app the class would call TEnmo (TE being Tech Elevator). It was another pair partner project to create a command line based application to emulate a money transfer app like Venmo. This time I had a different partner than the vending machine application. This program registers and manages user accounts and facilitates transactions using a SQL database and APIs. Users can request and send money to other users on the platform. If another user requested money from a user, they can accept or deny that transaction.
+The biggest thing I learned from this was how important data architecture is. During the process of creating the app, we needed to alter the way we had access to things to ensure data security.
 
 ### The Gaming Index - Video Game Database
 <img alt="Static Badge" src="https://img.shields.io/badge/STATUS-%20COMPLETE-%20green">
