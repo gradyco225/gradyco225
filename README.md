@@ -37,15 +37,18 @@ Developed money transfer application similar to Venmo using Java, PostgreSQL, an
 
 ### The Gaming Index - Video Game Database
 <img alt="Static Badge" src="https://img.shields.io/badge/STATUS-%20COMPLETE-%20green">
+[Link to repository](https://github.com/gradyco225/the-gaming-index)
 Developed a video game database website using Java, PostgreSQL, REST API design, HTML, CSS, and the Vue framework. Our website's database's data is built from the IGDB.com database API. Our website allows users to search for games and find random games, add games to lists, allows users to rate games and comment on other users reviews.
 
 ## Side Projects
 ### Zombie Dice Game
 <img alt="Static Badge" src="https://img.shields.io/badge/STATUS-%20IN%20PROGRESS-%20red">
+[Link to repository](https://github.com/gradyco225/ZombieDice)
 Developing an application using Java. The program plays the tabletop game Zombie Dice, which is a classic my family plays when we don't want to spend an hour explaining the rules to someone new.
 
 ### Tournament Tracker Application
 <img alt="Static Badge" src="https://img.shields.io/badge/STATUS-%20COMPLETE-%20green">
+<!-- [Link to repository](https://github.com/gradyco225/TournamentTracker) -->
 Developed a C#/ .NET application for tracking tournaments like college basketball's March Madness. The program creates and manages tournaments and teams. The application will send emails to update players on their next played game.
 
 
