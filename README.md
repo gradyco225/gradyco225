@@ -53,7 +53,7 @@ Developing an application using Java. The program plays the tabletop game Zombie
 ### Tournament Tracker Application
 <img alt="Static Badge" src="https://img.shields.io/badge/STATUS-%20COMPLETE-%20green">
 
-<!-- [Link to Repository](https://github.com/gradyco225/TournamentTracker) -->
+[Link to Repository](https://github.com/gradyco225/TournamentTracker)
 
 Developed a C#/ .NET application for tracking tournaments like college basketball's March Madness. The program creates and manages tournaments and teams. The application will send emails to update players on their next played game.
 
