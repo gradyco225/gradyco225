@@ -6,22 +6,22 @@ As a machine vision engineer I used industrial cameras to inspect the quality of
 Then as a Controls Engineer I worked using Allen Bradley PLCs and Fanuc and ABB robotics to improve, maintain, and support Tier 1 automotive suppliers. I was the one called upon when things went wrong. I often needed to think quick on my feet and work intelligently in order to keep production running. Working as a controls engineer has taught me so much about technology, being a team player, fighting through adversity, and critical thinking skills.
 
 In the fall of 2023 I enrolled in a Java Full Stack Developer Bootcamp hosted by Tech Elevator providing 800+ hours of development education and application. While there I learned about about a ton including Spring Boot, Java, PostgreSQL, HTML, CSS, JavaScript, Vue.js, Responsive Design, IntelliJ, Git, Unit Testing (JUnit), E/R diagrams, and Integration Testing.
-<!--
+
 ## Table of contents
-* [Tech Elevator](https://github.com/gradyco225/gradyco225#techelevator)
+* [Tech Elevator](https://github.com/gradyco225#techelevator)
 
-   * [Vending Machine Application](https://github.com/gradyco225/gradyco225#vending-machine-application)
+   * [Vending Machine Application](https://github.com/gradyco225#vending-machine-application)
 
-   * [Tenmo - Venmo style app](https://github.com/gradyco225/gradyco225#tenmo---venmo-style-app)
+   * [Tenmo - Venmo style app](https://github.com/gradyco225#tenmo---venmo-style-app)
 
-   * [The Gaming Index - Video Game Database](https://github.com/gradyco225/gradyco225#the-gaming-index---video-game-database)
+   * [The Gaming Index - Video Game Database](https://github.com/gradyco225#the-gaming-index---video-game-database)
 
-* [Side Projects](https://github.com/gradyco225/gradyco225#side-projects)
+* [Side Projects](https://github.com/gradyco225#side-projects)
 
-   * [Zombie Dice Game](https://github.com/gradyco225/gradyco225#zombie-dice-game)
+   * [Zombie Dice Game](https://github.com/gradyco225#zombie-dice-game)
 
-   * [Tournament Tracker Application](https://github.com/gradyco225/gradyco225#tournament-tracker-application)
--->
+   * [Tournament Tracker Application](https://github.com/gradyco225#tournament-tracker-application)
+
 
 ## TechElevator
 <img alt="Static Badge" src="https://img.shields.io/badge/STATUS-%20COMPLETE-%20green">
