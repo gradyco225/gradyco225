@@ -49,16 +49,18 @@ For our third and final capstone project, I learned how to create a web interfac
 
 [Link to Repository](https://github.com/gradyco225/ZombieDice)
 
-Developing an application using Java. The program plays the tabletop game Zombie Dice, which is a classic my family plays when we don't want to spend an hour explaining the rules to someone new.
+Zombie Dice is a tabletop game my family plays that has pretty simple rules. It's one we often play when we have friends over who want to play a game with us, but we also don't want to spend an hour explaining all the rules to them. The object of the game is to roll 13 "brains" before your opponents. Each player takes turns rolling the dice. If the player rolls 3 shotguns in their round, their round's total is 0 and the game moves onto the next player. Once a player "banks" 13 or more brains, the round continues until each player has rolled that round and then player with the most brains wins!
+
+This is currently only a command line based application, but I am looking to make it into a website.
 
 ### Tournament Tracker Application
 <img alt="Static Badge" src="https://img.shields.io/badge/STATUS-%20COMPLETE-%20green">
 
 [Link to Repository](https://github.com/gradyco225/TournamentTracker)
 
-Developed a C#/ .NET application for tracking tournaments like college basketball's March Madness. The program creates and manages tournaments and teams. The application will send emails to update players on their next played game.
+Before I started the Tech Elevator program, I wanted to write an application to start to get my feet wet again coding. I had experience in college and a little bit on the job, but I wanted to do something to prove to myself I can do this. My brother recommended a [youtube tutorial](https://www.youtube.com/playlist?list=PLLWMQd6PeGY3t63w-8MMIjIyYS7MsFcCi) from a creator named Tim Corey. Tim did a great job explaining the "why" behind the code he was making. It was a great refresher and taught me a lot a long the way. I had no experience with SQL databases before starting this course. And I was able to follow along and learn something new, and had a fun time doing it. 
 
-
+The application itself creates and manages touraments, like college's March Madness tournament. The user can create and manage a tournement and it's teams and players. The tracker will create the matchups and will email participants on who their next matchup is.
 
 <!--
 **gradyco225/gradyco225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
