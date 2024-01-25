@@ -1,7 +1,7 @@
 # About Me & What I've Worked On
 Hello. I am Connor Grady. I am a software developer and a gamer with over 7 years of vision system integration and controls engineering experience in the automotive industry. My favorite thing in this world is cool technology. Ever since I was a kid I was playing with and dismantling every toy/game/gadget I could get my little hands on. I wanted to figure out how they worked (and discovered what made them not). So far my career in technology has brought me to many places and I've seen a bunch of different ways to make things work.
 
-As a machine vision engineer I used industrial cameras to inspect the quality of automotive components for numerous factories at the Big 3 US manufacturers. Using Cognex and Matrox machine vision cameras, I developed applications inspecting wheel & tire, engine components, and final assembly. Our systems were inspecting thousands of vehicles and automotive components daily.
+As a Machine Vision Engineer I used industrial cameras to inspect the quality of automotive components for numerous factories at the Big 3 US manufacturers. Using Cognex and Matrox machine vision cameras, I developed applications inspecting wheel & tire, engine components, and final assembly. Our systems were inspecting thousands of vehicles and automotive components daily.
 
 Then as a Controls Engineer I worked using Allen Bradley PLCs and Fanuc and ABB robotics to improve, maintain, and support Tier 1 automotive suppliers. I was the one called upon when things went wrong. I often needed to think quick on my feet and work intelligently in order to keep production running. Working as a controls engineer has taught me so much about technology, being a team player, fighting through adversity, and critical thinking skills.
 
@@ -12,9 +12,9 @@ In the fall of 2023 I enrolled in a Java Full Stack Developer Bootcamp hosted by
 
    * [Vending Machine Application](https://github.com/gradyco225#vending-machine-application)
 
-   * [Tenmo - Venmo style app](https://github.com/gradyco225#tenmo---venmo-style-app)
+   * [TEnmo](https://github.com/gradyco225#tenmo)
 
-   * [The Gaming Index - Video Game Database](https://github.com/gradyco225#the-gaming-index---video-game-database)
+   * [The Gaming Index](https://github.com/gradyco225#the-gaming-index)
 
 * [Side Projects](https://github.com/gradyco225#side-projects)
 
@@ -24,24 +24,24 @@ In the fall of 2023 I enrolled in a Java Full Stack Developer Bootcamp hosted by
 
 
 ## Tech Elevator
-During the Tech Elevator program, we studied how to create dynamic web-based software systems using Java, PostgreSQL, HTML, CSS, JavaScript and the Vue.js framework. The program was divided into 3 separate units, the first one covering Java, the second covering PostgreSQL and API integration with Java, and the third being making a webpage and integrating with information from 3rd party APIs. At the end of each unit, we would create a "capstone" project to practice everything we learned so far. The projects start simple and progress in complexity by the end. Also do note that only the final capstone project is publicly available on my github. The other two can be made availble upon request, but due to this being cirriculm material, it cannot be publicly shared. The final capstone project is all original work so it is available to view.
+During the Tech Elevator program, we studied how to create dynamic web-based software systems using Java, PostgreSQL, HTML, CSS, JavaScript and the Vue.js framework. The program was divided into 3 separate units, the first one covering Java, the second covering PostgreSQL and API integration with Java, and the third being making a webpage and integrating with information from 3rd party APIs. At the end of each unit, we would create a "capstone" project to practice everything we learned so far. The projects start simple and increase in complexity by the end. Also do note that only the final capstone project is publicly available on my github. The other two can be made availble upon request, but due to this being curriculum material, it cannot be publicly shared. The final capstone project is all original work so it is available to view.
 
 ### Vending Machine Application
 <img alt="Static Badge" src="https://img.shields.io/badge/STATUS-%20COMPLETE-%20green">
 During the first third of the program, I learned how to create a command line application using Java. This was a pair partner project that we developed to similate the computer of a vending machine. The vending machine keeps an inventory, inputs money, outputs change, manages transactions, and keeps a sales log.
 The biggest thing I learned from this project is that your code needs to be adaptable. Looking back I would have separated things out into more classes so one piece of code could have been used for more functions.
 
-### TEnmo - Venmo style app
+### TEnmo
 <img alt="Static Badge" src="https://img.shields.io/badge/STATUS-%20COMPLETE-%20green">
 For the second project of the program, I learned about SQL databases and how to integrate it's data using APIs with a Java command line application. This is an app the class would call TEnmo (TE being Tech Elevator). It was another pair partner project to create a command line based application to emulate a money transfer app like Venmo. This time I had a different partner than the vending machine application. This program registers and manages user accounts and facilitates transactions using a SQL database and APIs. Users can request and send money to other users on the platform. If another user requested money from a user, they can accept or deny that transaction.
 The biggest thing I learned from this was how important data architecture is. During the process of creating the app, we needed to alter the way we had access to things to ensure data security.
 
-### The Gaming Index - Video Game Database
+### The Gaming Index
 <img alt="Static Badge" src="https://img.shields.io/badge/STATUS-%20COMPLETE-%20green">
 
 [Link to Repository](https://github.com/gradyco225/the-gaming-index)
 
-Developed a video game database website using Java, PostgreSQL, REST API design, HTML, CSS, and the Vue framework. Our website's database's data is built from the IGDB.com database API. Our website allows users to search for games and find random games, add games to lists, allows users to rate games and comment on other users reviews.
+For our third and final capstone project, I learned how to create a web interface using HTML, CSS, JavaScript, and the Vue.js framework. For our final capstone project students were divided into groups of 4 and each group would come up with a unique idea for their capstone. The project will have a "product owner" being one of the other instructors in our program. Our groups project was a video game database, where users can search for games and save games to lists. Users can leave reviews on games and leave comments on others reviews. The data for all the games we retrieve is built from the IGDB.com database API. The IGDB is an API hosted by Twitch.tv, a internet videogame livestreaming site. Their website has a seemingly endless amount of documentation on how to gather game information. Once we retrieve a game from their database, we store it into our own database so we don't have to call IGDB all the time. I feel like there is still so much more that could have been added to this app, but it was a great experience to culminate all that we have learned throughout the Tech Elevator program.
 
 ## Side Projects
 ### Zombie Dice Game
